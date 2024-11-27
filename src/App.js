@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <h1>Hello, GitHub Pages!</h1>
       <p>This React app is automatically deployed using GitHub Actions!</p>
+      <p>Bonjour</p>
     </div>
   );
 }
