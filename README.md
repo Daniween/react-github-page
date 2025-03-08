@@ -1,17 +1,33 @@
-# My React App
+🚀 Mon Application React
+Ceci est une application React déployée automatiquement sur GitHub Pages à l'aide de GitHub Actions.
 
-This is a sample React application automatically deployed on GitHub Pages using GitHub Actions.
+🔗 Voir l'application en ligne
+👉 Lien vers l'application (Remplacez par l'URL de votre page GitHub Pages)
 
-## How to View the App
+📌 Prérequis
+Avant de commencer, assurez-vous d'avoir installé :
 
-Visit the live version of the app [here](https://DaniSoudry99.github.io/react-github-page).
+Node.js (version 18 ou supérieure)
+npm
+🛠 Installation et exécution locale
+Cloner le dépôt
 
-## Development
+bash
+Copier
+Modifier
+git clone https://github.com/daniween/react-github-page.git
+cd react-github-page
+Installer les dépendances
 
-1. Clone the repo
-2. Run `npm install` to install dependencies
-3. Run `npm start` to launch the app locally
+bash
+Copier
+Modifier
+npm install
+Lancer l'application en mode développement
 
-## Deployment
-
-The app is automatically built and deployed to GitHub Pages with each push to the `main` branch.
+bash
+Copier
+Modifier
+npm start
+L'application sera accessible à l'adresse :
+http://localhost:3000
