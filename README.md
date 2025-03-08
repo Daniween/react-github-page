@@ -3,7 +3,7 @@
 Ceci est une application React déployée automatiquement sur **GitHub Pages** à l'aide de **GitHub Actions**.
 
 ## 🔗 Voir l'application en ligne  
-👉 [Lien vers l'application](#) *(https://daniween.github.io/react-github-page/)*  
+👉 *https://daniween.github.io/react-github-page/*  
 
 ---
 
