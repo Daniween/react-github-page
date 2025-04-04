@@ -22,3 +22,8 @@ Avant de commencer, assurez-vous d'avoir installé :
 ```bash
 git clone https://github.com/daniween/react-github-page.git
 cd react-github-page
+```
+
+### 2️⃣ Démarrer l'application 
+```bash
+npm start
