@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/Daniween/react-github-page/actions/workflows/deploy.yml/badge.svg)
+
 # 🚀 Mon Application React
 
 Ceci est une application React déployée automatiquement sur **GitHub Pages** à l'aide de **GitHub Actions**.
